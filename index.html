@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Designated Dental Health HPSAs by State</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+  <script src="map.js" defer></script>
+</head>
+<body>
+  <main class="app-shell">
+    <section class="app-header" aria-labelledby="map-title">
+      <div>
+        <h1 id="map-title">Designated Dental Health HPSAs by State</h1>
+        <p>
+          Compare active Dental Health HPSA facilities, geographic areas,
+          population groups, and total HPSAs. Counts are unique HPSA IDs
+          filtered to <strong>HPSA Status = Designated</strong>.
+        </p>
+      </div>
+      <div class="source-note">
+        Source: BCD_HPSA_FCT_DET_DH.csv<br>
+        Data warehouse record create date: 06/08/2026
+      </div>
+    </section>
+
+    <section class="summary-grid" id="summary" aria-label="National summary"></section>
+
+    <section class="map-card" aria-label="Interactive HPSA state map">
+      <div class="map-toolbar">
+        <span class="toolbar-label">Color map by</span>
+        <div class="metric-buttons" id="metric-buttons" role="group" aria-label="Map metric"></div>
+      </div>
+
+      <div class="map-layout">
+        <div>
+          <div id="map" class="map-frame" aria-live="polite"></div>
+          <div class="legend" id="legend"></div>
+          <div id="territories" class="territory-list" aria-label="Territories and other records"></div>
+        </div>
+
+        <aside class="state-panel" id="state-panel" aria-live="polite"></aside>
+      </div>
+    </section>
+
+    <details class="data-details">
+      <summary>View state count table</summary>
+      <div class="table-wrap">
+        <table id="data-table">
+          <thead>
+            <tr>
+              <th scope="col">State</th>
+              <th scope="col">Abbr.</th>
+              <th scope="col">Facilities</th>
+              <th scope="col">Geographic areas</th>
+              <th scope="col">Population groups</th>
+              <th scope="col">Total HPSAs</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </details>
+  </main>
+</body>
+</html>

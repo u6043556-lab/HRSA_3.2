@@ -1,0 +1,482 @@
+[
+  {
+    "abbr": "AL",
+    "name": "Alabama",
+    "facilities": 43,
+    "geographicAreas": 1,
+    "populationGroups": 43,
+    "totalHpsas": 87
+  },
+  {
+    "abbr": "AK",
+    "name": "Alaska",
+    "facilities": 312,
+    "geographicAreas": 13,
+    "populationGroups": 3,
+    "totalHpsas": 328
+  },
+  {
+    "abbr": "AS",
+    "name": "American Samoa",
+    "facilities": 1,
+    "geographicAreas": 1,
+    "populationGroups": 0,
+    "totalHpsas": 2
+  },
+  {
+    "abbr": "AZ",
+    "name": "Arizona",
+    "facilities": 139,
+    "geographicAreas": 15,
+    "populationGroups": 56,
+    "totalHpsas": 210
+  },
+  {
+    "abbr": "AR",
+    "name": "Arkansas",
+    "facilities": 80,
+    "geographicAreas": 3,
+    "populationGroups": 67,
+    "totalHpsas": 150
+  },
+  {
+    "abbr": "CA",
+    "name": "California",
+    "facilities": 453,
+    "geographicAreas": 9,
+    "populationGroups": 84,
+    "totalHpsas": 546
+  },
+  {
+    "abbr": "CO",
+    "name": "Colorado",
+    "facilities": 63,
+    "geographicAreas": 18,
+    "populationGroups": 26,
+    "totalHpsas": 107
+  },
+  {
+    "abbr": "CT",
+    "name": "Connecticut",
+    "facilities": 20,
+    "geographicAreas": 0,
+    "populationGroups": 14,
+    "totalHpsas": 34
+  },
+  {
+    "abbr": "DE",
+    "name": "Delaware",
+    "facilities": 9,
+    "geographicAreas": 0,
+    "populationGroups": 3,
+    "totalHpsas": 12
+  },
+  {
+    "abbr": "DC",
+    "name": "District of Columbia",
+    "facilities": 8,
+    "geographicAreas": 0,
+    "populationGroups": 1,
+    "totalHpsas": 9
+  },
+  {
+    "abbr": "FM",
+    "name": "Federated States of Micronesia",
+    "facilities": 4,
+    "geographicAreas": 4,
+    "populationGroups": 0,
+    "totalHpsas": 8
+  },
+  {
+    "abbr": "FL",
+    "name": "Florida",
+    "facilities": 170,
+    "geographicAreas": 5,
+    "populationGroups": 29,
+    "totalHpsas": 204
+  },
+  {
+    "abbr": "GA",
+    "name": "Georgia",
+    "facilities": 63,
+    "geographicAreas": 8,
+    "populationGroups": 38,
+    "totalHpsas": 109
+  },
+  {
+    "abbr": "GU",
+    "name": "Guam",
+    "facilities": 3,
+    "geographicAreas": 0,
+    "populationGroups": 1,
+    "totalHpsas": 4
+  },
+  {
+    "abbr": "HI",
+    "name": "Hawaii",
+    "facilities": 29,
+    "geographicAreas": 0,
+    "populationGroups": 4,
+    "totalHpsas": 33
+  },
+  {
+    "abbr": "ID",
+    "name": "Idaho",
+    "facilities": 56,
+    "geographicAreas": 4,
+    "populationGroups": 24,
+    "totalHpsas": 84
+  },
+  {
+    "abbr": "IL",
+    "name": "Illinois",
+    "facilities": 172,
+    "geographicAreas": 7,
+    "populationGroups": 71,
+    "totalHpsas": 250
+  },
+  {
+    "abbr": "IN",
+    "name": "Indiana",
+    "facilities": 74,
+    "geographicAreas": 3,
+    "populationGroups": 49,
+    "totalHpsas": 126
+  },
+  {
+    "abbr": "IA",
+    "name": "Iowa",
+    "facilities": 95,
+    "geographicAreas": 7,
+    "populationGroups": 28,
+    "totalHpsas": 130
+  },
+  {
+    "abbr": "KS",
+    "name": "Kansas",
+    "facilities": 92,
+    "geographicAreas": 6,
+    "populationGroups": 26,
+    "totalHpsas": 124
+  },
+  {
+    "abbr": "KY",
+    "name": "Kentucky",
+    "facilities": 132,
+    "geographicAreas": 2,
+    "populationGroups": 112,
+    "totalHpsas": 246
+  },
+  {
+    "abbr": "LA",
+    "name": "Louisiana",
+    "facilities": 116,
+    "geographicAreas": 21,
+    "populationGroups": 35,
+    "totalHpsas": 172
+  },
+  {
+    "abbr": "ME",
+    "name": "Maine",
+    "facilities": 53,
+    "geographicAreas": 2,
+    "populationGroups": 21,
+    "totalHpsas": 76
+  },
+  {
+    "abbr": "MH",
+    "name": "Marshall Islands",
+    "facilities": 1,
+    "geographicAreas": 1,
+    "populationGroups": 0,
+    "totalHpsas": 2
+  },
+  {
+    "abbr": "MD",
+    "name": "Maryland",
+    "facilities": 17,
+    "geographicAreas": 3,
+    "populationGroups": 4,
+    "totalHpsas": 24
+  },
+  {
+    "abbr": "MA",
+    "name": "Massachusetts",
+    "facilities": 50,
+    "geographicAreas": 0,
+    "populationGroups": 5,
+    "totalHpsas": 55
+  },
+  {
+    "abbr": "MI",
+    "name": "Michigan",
+    "facilities": 204,
+    "geographicAreas": 1,
+    "populationGroups": 57,
+    "totalHpsas": 262
+  },
+  {
+    "abbr": "MN",
+    "name": "Minnesota",
+    "facilities": 128,
+    "geographicAreas": 32,
+    "populationGroups": 33,
+    "totalHpsas": 193
+  },
+  {
+    "abbr": "MS",
+    "name": "Mississippi",
+    "facilities": 72,
+    "geographicAreas": 30,
+    "populationGroups": 47,
+    "totalHpsas": 149
+  },
+  {
+    "abbr": "MO",
+    "name": "Missouri",
+    "facilities": 236,
+    "geographicAreas": 18,
+    "populationGroups": 72,
+    "totalHpsas": 326
+  },
+  {
+    "abbr": "MT",
+    "name": "Montana",
+    "facilities": 75,
+    "geographicAreas": 8,
+    "populationGroups": 19,
+    "totalHpsas": 102
+  },
+  {
+    "abbr": "NE",
+    "name": "Nebraska",
+    "facilities": 84,
+    "geographicAreas": 2,
+    "populationGroups": 14,
+    "totalHpsas": 100
+  },
+  {
+    "abbr": "NV",
+    "name": "Nevada",
+    "facilities": 45,
+    "geographicAreas": 6,
+    "populationGroups": 4,
+    "totalHpsas": 55
+  },
+  {
+    "abbr": "NH",
+    "name": "New Hampshire",
+    "facilities": 18,
+    "geographicAreas": 0,
+    "populationGroups": 3,
+    "totalHpsas": 21
+  },
+  {
+    "abbr": "NJ",
+    "name": "New Jersey",
+    "facilities": 37,
+    "geographicAreas": 2,
+    "populationGroups": 0,
+    "totalHpsas": 39
+  },
+  {
+    "abbr": "NM",
+    "name": "New Mexico",
+    "facilities": 71,
+    "geographicAreas": 10,
+    "populationGroups": 21,
+    "totalHpsas": 102
+  },
+  {
+    "abbr": "NY",
+    "name": "New York",
+    "facilities": 121,
+    "geographicAreas": 0,
+    "populationGroups": 44,
+    "totalHpsas": 165
+  },
+  {
+    "abbr": "NC",
+    "name": "North Carolina",
+    "facilities": 98,
+    "geographicAreas": 3,
+    "populationGroups": 99,
+    "totalHpsas": 200
+  },
+  {
+    "abbr": "ND",
+    "name": "North Dakota",
+    "facilities": 47,
+    "geographicAreas": 20,
+    "populationGroups": 1,
+    "totalHpsas": 68
+  },
+  {
+    "abbr": "MP",
+    "name": "Northern Mariana Islands",
+    "facilities": 1,
+    "geographicAreas": 1,
+    "populationGroups": 0,
+    "totalHpsas": 2
+  },
+  {
+    "abbr": "XX",
+    "name": "Not Determined",
+    "facilities": 2,
+    "geographicAreas": 0,
+    "populationGroups": 0,
+    "totalHpsas": 2
+  },
+  {
+    "abbr": "OH",
+    "name": "Ohio",
+    "facilities": 91,
+    "geographicAreas": 1,
+    "populationGroups": 64,
+    "totalHpsas": 156
+  },
+  {
+    "abbr": "OK",
+    "name": "Oklahoma",
+    "facilities": 118,
+    "geographicAreas": 1,
+    "populationGroups": 62,
+    "totalHpsas": 181
+  },
+  {
+    "abbr": "OR",
+    "name": "Oregon",
+    "facilities": 108,
+    "geographicAreas": 2,
+    "populationGroups": 30,
+    "totalHpsas": 140
+  },
+  {
+    "abbr": "PA",
+    "name": "Pennsylvania",
+    "facilities": 104,
+    "geographicAreas": 0,
+    "populationGroups": 45,
+    "totalHpsas": 149
+  },
+  {
+    "abbr": "PR",
+    "name": "Puerto Rico",
+    "facilities": 22,
+    "geographicAreas": 1,
+    "populationGroups": 76,
+    "totalHpsas": 99
+  },
+  {
+    "abbr": "PW",
+    "name": "Republic of Palau",
+    "facilities": 1,
+    "geographicAreas": 1,
+    "populationGroups": 0,
+    "totalHpsas": 2
+  },
+  {
+    "abbr": "RI",
+    "name": "Rhode Island",
+    "facilities": 10,
+    "geographicAreas": 0,
+    "populationGroups": 3,
+    "totalHpsas": 13
+  },
+  {
+    "abbr": "SC",
+    "name": "South Carolina",
+    "facilities": 57,
+    "geographicAreas": 13,
+    "populationGroups": 21,
+    "totalHpsas": 91
+  },
+  {
+    "abbr": "SD",
+    "name": "South Dakota",
+    "facilities": 50,
+    "geographicAreas": 20,
+    "populationGroups": 19,
+    "totalHpsas": 89
+  },
+  {
+    "abbr": "TN",
+    "name": "Tennessee",
+    "facilities": 68,
+    "geographicAreas": 3,
+    "populationGroups": 79,
+    "totalHpsas": 150
+  },
+  {
+    "abbr": "TX",
+    "name": "Texas",
+    "facilities": 154,
+    "geographicAreas": 69,
+    "populationGroups": 112,
+    "totalHpsas": 335
+  },
+  {
+    "abbr": "VI",
+    "name": "U.S. Virgin Islands",
+    "facilities": 2,
+    "geographicAreas": 3,
+    "populationGroups": 0,
+    "totalHpsas": 5
+  },
+  {
+    "abbr": "UT",
+    "name": "Utah",
+    "facilities": 40,
+    "geographicAreas": 5,
+    "populationGroups": 13,
+    "totalHpsas": 58
+  },
+  {
+    "abbr": "VT",
+    "name": "Vermont",
+    "facilities": 12,
+    "geographicAreas": 2,
+    "populationGroups": 0,
+    "totalHpsas": 14
+  },
+  {
+    "abbr": "VA",
+    "name": "Virginia",
+    "facilities": 80,
+    "geographicAreas": 42,
+    "populationGroups": 35,
+    "totalHpsas": 157
+  },
+  {
+    "abbr": "WA",
+    "name": "Washington",
+    "facilities": 163,
+    "geographicAreas": 25,
+    "populationGroups": 16,
+    "totalHpsas": 204
+  },
+  {
+    "abbr": "WV",
+    "name": "West Virginia",
+    "facilities": 67,
+    "geographicAreas": 4,
+    "populationGroups": 48,
+    "totalHpsas": 119
+  },
+  {
+    "abbr": "WI",
+    "name": "Wisconsin",
+    "facilities": 116,
+    "geographicAreas": 1,
+    "populationGroups": 28,
+    "totalHpsas": 145
+  },
+  {
+    "abbr": "WY",
+    "name": "Wyoming",
+    "facilities": 20,
+    "geographicAreas": 3,
+    "populationGroups": 5,
+    "totalHpsas": 28
+  }
+]
